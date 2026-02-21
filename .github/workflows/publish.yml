@@ -21,6 +21,7 @@ jobs:
 
       - name: Install protoc
         run: sudo apt-get update && sudo apt install -y protobuf-compiler
+        
       - name: Install deps
         run: npm install --frozen-lockfile
 
