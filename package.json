@@ -14,8 +14,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@nestjs/microservices": "^11.1.14",
+    "@nestjs/microservices": "^11.1.28",
     "rxjs": "^7.8.2",
-    "ts-proto": "^2.11.2"
+    "ts-proto": "^2.12.0"
   }
 }
