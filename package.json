@@ -1,6 +1,6 @@
 {
   "name": "@cinema-micro/contracts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Protobuf defenition and generate TypeScript types",
   "author": "dimon",
   "scripts": {
